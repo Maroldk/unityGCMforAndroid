@@ -4,7 +4,8 @@ h1. Unity で Google Cloud Messaging for Android
 
 h2. 必要なもの
 
-[参考サイト](http://d.hatena.ne.jp/azukinohiroki/20120628/1340868610)
+[参考サイト1](http://d.hatena.ne.jp/azukinohiroki/20120628/1340868610)
+[参考サイト2](https://gist.github.com/3029979)
 
 * sendID
 * apiKey
@@ -22,3 +23,6 @@ h2. 必要なもの
 
 
 # Androidプロジェクトで見るべきものはMainActivity.javaとGCMIntentService.javaです
+
+h2. 参考サイト
+
