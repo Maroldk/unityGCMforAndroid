@@ -21,4 +21,4 @@ h2. 必要なもの
 # ビルドしたら使用できます
 
 
-# Androidプロジェクトで見るべきものはMainActivity.javaとGcmforunity.javaです
+# Androidプロジェクトで見るべきものはMainActivity.javaとGCMIntentService.javaです
