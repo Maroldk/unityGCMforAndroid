@@ -18,6 +18,8 @@ h2. 必要なもの
 # インスペクター上でSendIDとApiKeyを設定します。
 # ビルドしたら使用できます
 
+* 追記 2012/07/14 16:25
+メッセージを送るにはsendGCMを呼び出します
 
 # Androidプロジェクトで見るべきものはMainActivity.javaとGCMIntentService.javaです
 
