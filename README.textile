@@ -23,6 +23,6 @@ h2. 必要なもの
 
 h2. 参考サイト
 
-"Google Cloud Messaging for Android (GCM)を使ってみた":http://d.hatena.ne.jp/azukinohiroki/20120628/1340868610)
-"Google Cloud Messaging for Android で、サーバ側をAndroidにしてみた":https://gist.github.com/3029979)
+"Google Cloud Messaging for Android (GCM)を使ってみた":http://d.hatena.ne.jp/azukinohiroki/20120628/1340868610
+"Google Cloud Messaging for Android で、サーバ側をAndroidにしてみた":https://gist.github.com/3029979
 
